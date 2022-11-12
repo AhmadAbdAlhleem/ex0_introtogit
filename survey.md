@@ -1,5 +1,6 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Black
+Favorite food: Maqluba 
+Favorite musician/band:2Pac 
+Favorite movie:The Shawshank Redemption 
+Requested grade in the course:90+
+ 
